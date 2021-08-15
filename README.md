@@ -8,7 +8,7 @@ Enhanced Gizmos is a gizmo library that allows you to draw semi-transparent gizm
 
 All information regarding the gizmo's position and size is displayed in the scene view for more quick and easy information. Everything from color to transparency can be modified directly from the function call.
 
-**What shapes can be draw with the library?**
+***What shapes can be draw with the library?***
 - Cube
 - Sphere
 - Custom Mesh
