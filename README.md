@@ -1,7 +1,7 @@
 # Enhanced-Gizmos
 
 ## How to install
-Just download the source and put it in your Unity project. The script does not have to be put in the editor folder, remember to allways use ```#if UNITY_EDITOR``` when using gizmos to avoid errors when building your game.
+Just download the source and put it in your Unity project. The script should not be put in the editor folder, remember to allways use ```#if UNITY_EDITOR``` when using gizmos to avoid errors when building your game or remove them when not needed anymore.
 
 ## What are Enhanced Gizmos?
 Enhanced Gizmos is a gizmo library that allows you to draw semi-transparent gizmos with ease as well some unique shapes such as octahedrons (8 sided diamond) and hexagonal pyramid (6 sided pyramid).
